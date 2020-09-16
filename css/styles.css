@@ -69,16 +69,16 @@ a:hover{
 }
 .top-cloud {
   position: absolute;
-  right: 280px;
-  top: 250px;
+  right: 15%;
+  top: 42%;
   width: 30%;
   height: auto;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 420px;
+  left: 20%;
+  bottom: 83%;
   width: 20%;
   height: auto;
 }
